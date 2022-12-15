@@ -15,7 +15,7 @@
 <pre> eval "$(curl https://raw.githubusercontent.com/ian28223/Datadog-ian/master/ddev/pyenv_ddev_setup.sh)"</pre>
 <h2>3. One line Patch script install</h2>
 <ul><pre>eval "$(curl -O h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh)"</ul>
-<ul><h3>*Note referenced error occurs @ Ddev install*</h3></ul></pre>
+<ul><h3>*Note referenced error occurs @ the end of script*</h3></ul></pre>
 <h2>4a. Donwload pyenv_ddev_patch script:</h2>
 <ul><pre>curl -0 h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh</pre></ul>
 <h2>4b. Insect File (Trust but Verify)</h2>
