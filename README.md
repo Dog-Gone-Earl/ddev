@@ -13,15 +13,15 @@
         
 <h2>2. Install Pyenv/Repositories using Ian's One-Line Install</h2>
 <pre> eval "$(curl https://raw.githubusercontent.com/ian28223/Datadog-ian/master/ddev/pyenv_ddev_setup.sh)"</pre>
-<h2> One line Patch script install</h2>
+<h2>3. One line Patch script install</h2>
 <ul><pre>eval "$(curl -O h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh)"</pre></ul>
-<h2>2a. Donwload pyenv_ddev_patch script:</h2>
+<h2>4a. Donwload pyenv_ddev_patch script:</h2>
 <ul><pre>curl -0 h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh</pre></ul>
-<h2>2b. Insect File (Trust but Verify)</h2>
+<h2>4b. Insect File (Trust but Verify)</h2>
 <ul><pre>vim pyenv_ddev_patch.sh</pre></ul>
 <ul><pre>nano pyenv_ddev_patch.sh</pre></ul>
         
-<h2>2c. Run the Script</h2>
+<h2>4c. Run the Script</h2>
 <ul><pre>sh pyenv_ddev_patch.sh</pre></ul>
 
-<h2>3. Open a new terminal for pipx changes to go into place<h2>
+<h2>5. Open a new terminal for pipx changes to go into place<h2>
