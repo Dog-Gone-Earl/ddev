@@ -21,3 +21,4 @@
 <h2>Run the Script</h2>
 <ul><pre>sh pyenv_ddev_patch.sh</pre></ul>
 
+<h2>Open a new terminal for pipx changes to go into place<h2>
