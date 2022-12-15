@@ -12,7 +12,7 @@
         
 <h2>2. Install Pyenv/Repositories using Ian's One-Line Install</h2>
 <ul><pre>eval "$(curl -0 h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh)"</pre></ul>
-<h2>2a. Donwload Curl Command:</h2>
+<h2>2a. Donwload pyenv_ddev_patch script:</h2>
 <ul><pre>curl -0 h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh</pre></ul>
 <h2>2b. Insect File (Trust but Verify)</h2>
 <ul><pre>vim pyenv_ddev_patch.sh</pre></ul>
