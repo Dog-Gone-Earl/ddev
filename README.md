@@ -14,7 +14,7 @@
 <li>eval "$(curl -0 h</span>ttps://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh)"</li>
   
   <h2>Curl Command:</h2>
-  <li>curl -O htt</span>ps://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh</li>
+  <li>curl htt</span>ps://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh</li>
   
   <h2>Insect File (Trust but Verify)</h2>
     <li>vim pyenv_ddev_patch.sh</li>
