@@ -8,5 +8,5 @@ Install memray module for curret error:
 
 <h2>Install</h2>
 
-<li><h2>One-Line Install<h2><li>
-<li>eval "$(curl -0 https://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh)"</li>
+<li><h2>One-Line Install<h2>
+eval "$(curl -0 https://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh)"</li>
