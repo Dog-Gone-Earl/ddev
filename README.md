@@ -5,7 +5,7 @@
  <li>liblz4-dev</li>
 
 
-<h2>Builds memray wheels for error:</h2>
+<h2>Builds memray wheels to resolve error:</h2>
 
 ![eeb6db45-94e1-45ef-a14f-6bce846ee17e](https://user-images.githubusercontent.com/107069502/207773531-dd29d629-e4b9-4b7f-b5e6-96c66fd834c4.jpg)
   
