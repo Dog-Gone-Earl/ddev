@@ -1,13 +1,25 @@
 # ddev
-<h2>Information on Patch Script</h2>
-Memray module install and pip update
+<h2>Information on Patch Script:</h2>
+<h2>Installation of:</h2> 
+ <li> libunwind-dev 
+ <li>liblz4-dev</li>
 
-Install memray module for curret error:
 
-"ERROR: Could not build wheels for memray, which is required to install pyproject.toml-based projects"
+<h2>Builds memray wheels for error:</h2>
 
-<h2>One-Line Install<h2>
-<li>eval "$(curl -0 https://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh)"</li>
+![eeb6db45-94e1-45ef-a14f-6bce846ee17e](https://user-images.githubusercontent.com/107069502/207773531-dd29d629-e4b9-4b7f-b5e6-96c66fd834c4.jpg)
+  
+
+<h2>One-Line Install</h2>
+<li>eval "$(curl -0 h</span>ttps://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh)"</li>
   
   <h2>Curl Command:</h2>
-  <li>curl -O https://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh<li>
+  <li>curl -O htt</span>ps://github.com/Dog-Gone-Earl/ddev/blob/main/pyenv_ddev_patch.sh</li>
+  
+  <h2>Insect File (Trust but Verify)</h2>
+    <li>vim pyenv_ddev_patch.sh</li>
+    <li>nano pyenv_ddev_patch.sh</li>
+    
+  <h2>Run the Script</h2>
+    <li>sh pyenv_ddev_patch.sh</li>
+
