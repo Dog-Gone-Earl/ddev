@@ -12,7 +12,7 @@
 <ul><pre>liblz4-dev</pre></ul>
         
 <h2>2. Install Pyenv/Repositories using Ian's One-Line Install</h2>
-<pre> eval "$(curl https://raw.githubusercontent.com/ian28223/Datadog-ian/master/ddev/pyenv_ddev_setup.sh)"</pre>
+<pre> eval "$(curl https://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh)"</pre>
 <ul><h3>*Note referenced error occurs @ the end of script*</h3></ul></pre>
 <h2>4a. Donwload pyenv_ddev_patch script:</h2>
 <ul><pre>curl -0 h</span>ttps://raw.githubusercontent.com/Dog-Gone-Earl/ddev/main/pyenv_ddev_patch.sh</pre></ul>
