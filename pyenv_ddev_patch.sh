@@ -1,4 +1,6 @@
   #!/usr/bin/env bash
+  sudo apt-get update -y && sudo apt-get upgrade -y
+  eval "$(curl https://raw.githubusercontent.com/ian28223/Datadog-ian/master/ddev/pyenv_ddev_setup.sh)"
 
   #install pip update
   echo "\nInstalling pip update"
