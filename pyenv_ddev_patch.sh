@@ -1,4 +1,6 @@
   #!/usr/bin/env bash
+  sudo apt-get update -y && sudo apt-get upgrade -y
+  eval "$(curl https://raw.githubusercontent.com/ian28223/Datadog-ian/master/ddev/pyenv_ddev_setup.sh)"
 
   #install pip update
   echo "\nInstalling pip update"
@@ -18,10 +20,11 @@
   #install ddev
   echo "\nAttempting complete solve of ddev"
   pip install "datadog-checks-dev[cli]"
-  
   echo "Install of Docker"
   curl -fsSL https://get.docker.com -o get-docker.sh
   sudo sh ./get-docker.sh
+  sudo groupadd docker
+
   sudo usermod -aG docker $USER
   
   #Ddev install confirmation
