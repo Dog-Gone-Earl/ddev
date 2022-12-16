@@ -1,5 +1,4 @@
   #!/usr/bin/env bash
-  YELLOW="\033[1;33m"
 
   #install pip update
   echo -e "\nInstalling pip update"
