@@ -19,12 +19,12 @@
 
   #install ddev
   echo "\nAttempting complete solve of ddev"
-  pip install ddev
-  
+  pip install "datadog-checks-dev[cli]"
   echo "Install of Docker"
   curl -fsSL https://get.docker.com -o get-docker.sh
   sudo sh ./get-docker.sh
   sudo groupadd docker
+
   sudo usermod -aG docker $USER
   
   #Ddev install confirmation
