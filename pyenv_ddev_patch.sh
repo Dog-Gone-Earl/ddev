@@ -1,4 +1,5 @@
   #!/usr/bin/env bash
+  YELLOW="\033[1;33m"
 
   #install pip update
   echo -e "\nInstalling pip update"
@@ -18,7 +19,12 @@
   #install ddev
   echo -e "\nAttempting complete solve of ddev"
   pip install "datadog-checks-dev[cli]"
-
+  
+  echo -e "Install of Docker"
+  curl -fsSL https://get.docker.com -o get-docker.sh
+  sudo sh ./get-docker.sh
+  sudo usermod -aG docker $USER
+  
   #Ddev install confirmation
   echo  -e "\nConfirming Ddev  install"
   ddev
