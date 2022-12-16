@@ -17,7 +17,7 @@
 
   #install ddev
   echo -e "\nAttempting complete solve of ddev"
-  pip install ddev
+  pip install "datadog-checks-dev[cli]"
 
   #Ddev install confirmation
   echo  -e "\nConfirming Ddev  install"
