@@ -25,4 +25,4 @@
 <h2>4c. Run the Script</h2>
 <ul><pre>sh pyenv_ddev_patch.sh</pre></ul>
 
-<h2>5. Open a new terminal for pipx changes to go into place<h2>
+<h2>5. Close current terminal, open a new terminal, and ssh back into Vagrant sandbox for pipx changes to go into place<h2>
